@@ -1,0 +1,45 @@
+body{
+    background-color: aqua;
+}
+
+#image1{
+    width: 8000%;
+    height: 7000%:
+}
+
+.campus_li
+{
+  margin-top: 13px;
+}
+
+
+.campus_li img
+{
+  border-radius: 25px;
+}
+
+.campus_li p
+{
+  margin-top:10px;
+    font-size: 20px;
+}
+
+.achievments_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.achievments_head i
+{
+float: right;
+}
+
+.achievments_text span
+{
+color: #ff7700;
+}
